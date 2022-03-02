@@ -1,0 +1,16 @@
+{
+  "resourceName": "s3a774ccc8",
+  "policyUUID": "a774ccc8",
+  "bucketName": "notereactaws17683ff958b04df0a25a0ac6eec94b3c",
+  "storageAccess": "authAndGuest",
+  "guestAccess": [
+    "READ"
+  ],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "triggerFunction": "NONE",
+  "groupAccess": {}
+}

@@ -1,0 +1,5 @@
+{
+  "AppSyncApiName": "notereactaws",
+  "DynamoDBBillingMode": "PAY_PER_REQUEST",
+  "DynamoDBEnableServerSideEncryption": false
+}
